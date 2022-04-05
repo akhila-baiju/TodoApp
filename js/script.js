@@ -23,6 +23,6 @@ function myCallback(result)
         window.open("./welcome.html");
         //window.location = "";
     }else{
-        window.open("./index.html");
+        //window.open("./index.html");
     }
 }
